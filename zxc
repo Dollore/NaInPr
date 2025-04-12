@@ -1,0 +1,36 @@
+[33mcommit 37a7d7c93c7e8b6d97b7725b3dbeec047c73cbdb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mstudent1[m[33m)[m
+Merge: 8d8c6db 5f1b227
+Author: Krzysziu Juszczak <kr.juszczak@student.po.edu.pl>
+Date:   Sat Apr 12 10:46:17 2025 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 8d8c6db1bde4843655041935306e37957c1d71f6[m
+Author: Krzysziu Juszczak <kr.juszczak@student.po.edu.pl>
+Date:   Sat Apr 12 10:41:10 2025 +0200
+
+    sdfsdfcommit
+
+[33mcommit 5f1b22797ccfdbf1b26c0748d865b9ad49956d62[m
+Author: Robert Mateja <64959401+Dollore@users.noreply.github.com>
+Date:   Sat Apr 12 10:39:43 2025 +0200
+
+    Create test.txt
+
+[33mcommit a7c23fed94c1ed795f35b38cff4a8f011cd3b0f2[m
+Author: Robert Mateja <64959401+Dollore@users.noreply.github.com>
+Date:   Sat Apr 12 10:14:49 2025 +0200
+
+    Update README.md
+
+[33mcommit 291cffb3f656d8d712707c2f1482ceab6800b0a2[m
+Author: Robert Mateja <64959401+Dollore@users.noreply.github.com>
+Date:   Sat Apr 12 10:14:17 2025 +0200
+
+    Update README.md
+
+[33mcommit 51a02a634ac2583c7983278d425c196c171af3d0[m
+Author: Krzysziu Juszczak <kr.juszczak@student.po.edu.pl>
+Date:   Sat Apr 12 10:00:07 2025 +0200
+
+    first commit
